@@ -1,0 +1,132 @@
+[
+    {
+        "text": "环境局局长黄锦星（左）参观中心的展览厅。展品介绍海岸公园的管理及保育措施、海洋生态、海下历史及海洋面对的威胁等教育资讯。（政府新闻处）",
+        "id": "60bf7f08e4b0903c0e925a681.jpg",
+        "title": "香港首个海岸公园游客中心启用　设VR互动展览",
+        "description": "香港首个以海岸公园为主题的游客中心──海下游客中心6月8日开幕，中心位于西贡西郊野公园内，毗邻海下湾海岸公园。环境局局长黄锦星、渔护署署长梁肇辉及建筑署署长何永贤主持开幕礼。",
+        "img_url": "https://dw-media.wenweipo.com/dams/wwpproduct/image/202106/08/60bf7f08e4b0903c0e925a681.jpg",
+        "event_list": [
+            {
+                "event_type": "交流类-介绍类",
+                "trigger": "介绍",
+                "trigger_start_index": 22,
+                "arguments": [
+                    {
+                        "argument_start_index": 20,
+                        "role": "介绍对象",
+                        "argument": "展品"
+                    },
+                    {
+                        "argument_start_index": "des",
+                        "role": "时间",
+                        "argument": "6月8日"
+                    },
+                    {
+                        "argument_start_index": 24,
+                        "role": "介绍内容",
+                        "argument": "海岸公园的管理及保育措施、海洋生态、海下历史及海洋面对的威胁等教育资讯"
+                    },
+                    {
+                        "argument_start_index": "img",
+                        "role": "介绍者",
+                        "argument": "人"
+                    },
+                    {
+                        "argument_start_index": "img",
+                        "role": "介绍地点",
+                        "argument": "室内"
+                    }
+                ],
+                "class": "交流类"
+            },
+            {
+                "event_type": "旅游类-参观类",
+                "trigger": "参观",
+                "trigger_start_index": 11,
+                "arguments": [
+                    {
+                        "argument_start_index": "des",
+                        "role": "时间",
+                        "argument": "6月8日"
+                    },
+                    {
+                        "argument_start_index": "des",
+                        "role": "参观地点",
+                        "argument": "西贡西郊野公园"
+                    },
+                    {
+                        "argument_start_index": 0,
+                        "role": "参观者",
+                        "argument": "环境局局长黄锦星"
+                    },
+                    {
+                        "argument_start_index": 16,
+                        "role": "参观内容",
+                        "argument": "展览厅"
+                    }
+                ],
+                "class": "旅游类"
+            }
+        ]
+    },
+    {
+        "text": "警方在铜锣湾外佣经常聚集的糖街等地点加强巡逻。（大公文汇全媒体记者摄）",
+        "id": "624016c9e4b0fc3e56af3614zv1.jpg",
+        "title": "警方加强巡查铜锣湾外佣聚集",
+        "description": "大公文汇全媒体报道：本港第五波疫情持续，警方连日来到外佣周末经常聚集的地点加强巡逻和执法，今日（27日）到铜锣湾糖街及维园一带进行巡查，提醒市民和外佣遵守2人限聚令和口罩令等，以减低病毒传播风险。",
+        "img_url": "https://dw-media.wenweipo.com/dams/share/image/202203/27/624016c9e4b0fc3e56af3614zv1.jpg",
+        "event_list": [
+            {
+                "event_type": "治安类-警戒类",
+                "trigger": "巡逻",
+                "trigger_start_index": 20,
+                "arguments": [
+                    {
+                        "argument_start_index": 0,
+                        "role": "警戒单位",
+                        "argument": "警方"
+                    },
+                    {
+                        "argument_start_index": "des",
+                        "role": "时间",
+                        "argument": "今日（27日）"
+                    },
+                    {
+                        "argument_start_index": "des",
+                        "role": "警戒措施",
+                        "argument": "提醒市民和外佣遵守2人限聚令和口罩令等"
+                    },
+                    {
+                        "argument_start_index": 13,
+                        "role": "警戒地点",
+                        "argument": "糖街等地点"
+                    }
+                ],
+                "class": "治安类"
+            },
+            {
+                "event_type": "聚集类-聚集类",
+                "trigger": "聚集",
+                "trigger_start_index": 10,
+                "arguments": [
+                    {
+                        "argument_start_index": 6,
+                        "role": "参与者",
+                        "argument": "外佣"
+                    },
+                    {
+                        "argument_start_index": "des",
+                        "role": "时间",
+                        "argument": "今日（27日）"
+                    },
+                    {
+                        "argument_start_index": 13,
+                        "role": "聚集地点",
+                        "argument": "糖街"
+                    }
+                ],
+                "class": "聚集类"
+            }
+        ]
+    }
+]

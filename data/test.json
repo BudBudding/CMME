@@ -1,0 +1,142 @@
+[
+    {
+        "text": "8月3日，在河南省洛阳市嵩县黄庄乡三合村，美术专业出身的三合村党支部副书记冯亚珂（左）在指导写生学生速写。（新华社）",
+        "id": "62eb2ffee4b0262b80a708af1.jpg",
+        "title": "河南嵩县：画笔绘就伏牛山村振兴新貌",
+        "description": "河南省洛阳市嵩县黄庄乡三合村位于伏牛山区，山水资源和原生态古村落吸引了许多艺术家和美术爱好者。在当地政府支持和返乡青年冯亚珂带动下，三合村通过修缮老房、新建民宿，改善了基础设施，引来数十家画室签约合作，逐渐成了写生专业村。如今，三合村早已脱贫摘帽，发展为集写生、摄影、研学、培训于一体的旅游综合体，被评为「全国乡村旅游重点村」和「中国美丽休闲乡村」。",
+        "img_url": "https://dw-media.wenweipo.com/dams/wwpproduct/image/202208/04/62eb2ffee4b0262b80a708af1.jpg",
+        "event_list": [
+            {
+                "event_type": "写类-绘画类",
+                "trigger": "速写",
+                "trigger_start_index": 50,
+                "arguments": [
+                    {
+                        "argument_start_index": 0,
+                        "role": "时间",
+                        "argument": "8月3日"
+                    },
+                    {
+                        "argument_start_index": 6,
+                        "role": "绘画地点",
+                        "argument": "河南省洛阳市嵩县黄庄乡三合村"
+                    },
+                    {
+                        "argument_start_index": 46,
+                        "role": "绘画者",
+                        "argument": "写生学生"
+                    },
+                    {
+                        "argument_start_index": "img",
+                        "role": "绘画工具",
+                        "argument": "笔"
+                    },
+                    {
+                        "argument_start_index": "tit",
+                        "role": "绘画内容",
+                        "argument": "伏牛山村振兴新貌"
+                    }
+                ],
+                "class": "写类"
+            },
+            {
+                "event_type": "交流类-介绍类",
+                "trigger": "指导",
+                "trigger_start_index": 44,
+                "arguments": [
+                    {
+                        "argument_start_index": 0,
+                        "role": "时间",
+                        "argument": "8月3日"
+                    },
+                    {
+                        "argument_start_index": 6,
+                        "role": "介绍地点",
+                        "argument": "河南省洛阳市嵩县黄庄乡三合村"
+                    },
+                    {
+                        "argument_start_index": 37,
+                        "role": "介绍者",
+                        "argument": "冯亚珂"
+                    },
+                    {
+                        "argument_start_index": 46,
+                        "role": "介绍对象",
+                        "argument": "写生学生"
+                    },
+                    {
+                        "argument_start_index": 50,
+                        "role": "介绍内容",
+                        "argument": "速写"
+                    }
+                ],
+                "class": "交流类"
+            }
+        ]
+    },
+    {
+        "text": "11月14日，在江西省南昌县蒋巷镇大田农社智慧农场，无人插秧作业设备在进行现场演示。（新华社）",
+        "id": "5fafa76ee4b02f8530f64c011.jpg",
+        "title": "江西南昌:智慧农机展新貌",
+        "description": "由江西省农业农村厅和南昌市人民政府共同支持的江西首个万亩智慧农场发布暨智能农业装备全程机械化作业演示活动在南昌县蒋巷镇大田农社智慧农场举行。20多家厂商生产的收割、旋耕、机插秧、植保等机械设备及无人作业农机设备进行了现场演示，吸引了大批观展者前来一睹智慧农业新面貌。（新华社）",
+        "img_url": "https://dw-media.wenweipo.com/dams/wwpproduct/image/202011/14/5fafa76ee4b02f8530f64c011.jpg",
+        "event_list": [
+            {
+                "event_type": "工作类-劳作类",
+                "trigger": "演示",
+                "trigger_start_index": 39,
+                "arguments": [
+                    {
+                        "argument_start_index": 0,
+                        "role": "时间",
+                        "argument": "11月14日"
+                    },
+                    {
+                        "argument_start_index": 8,
+                        "role": "劳作地点",
+                        "argument": "江西省南昌县蒋巷镇大田农社智慧农场"
+                    },
+                    {
+                        "argument_start_index": 26,
+                        "role": "劳动者",
+                        "argument": "无人插秧作业设备"
+                    },
+                    {
+                        "argument_start_index": "tit",
+                        "role": "劳作对象",
+                        "argument": "无人插秧作业"
+                    }
+                ],
+                "class": "工作类"
+            },
+            {
+                "event_type": "农业类-种植类",
+                "trigger": "插秧",
+                "trigger_start_index": 28,
+                "arguments": [
+                    {
+                        "argument_start_index": 0,
+                        "role": "时间",
+                        "argument": "11月14日"
+                    },
+                    {
+                        "argument_start_index": 8,
+                        "role": "种植地点",
+                        "argument": "江西省南昌县蒋巷镇大田农社智慧农场"
+                    },
+                    {
+                        "argument_start_index": 30,
+                        "role": "种植者",
+                        "argument": "作业设备"
+                    },
+                    {
+                        "argument_start_index": "img",
+                        "role": "种植植物",
+                        "argument": "植物"
+                    }
+                ],
+                "class": "农业类"
+            }
+        ]
+    }
+]

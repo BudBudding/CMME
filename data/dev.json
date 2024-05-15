@@ -1,0 +1,122 @@
+[
+    {
+        "text": "8月25日，参观者在「画游千里江山——故宫沉浸艺术展」上参观拍照。",
+        "id": "6127486ae4b0ec4dc89c6da61.jpg",
+        "title": "重庆「画游千里江山——故宫沉浸艺术展」即将对公众开放",
+        "description": "「画游千里江山——故宫沉浸艺术展」将于8月27日在重庆礼嘉智慧公园正式向公众开放。该艺术展运用数字投影、虚拟影像、互动捕捉等方式，形成艺术作品与人的互动，将传统文化元素与当代艺术设计交织，组成创新的文化体验空间。",
+        "img_url": "https://dw-media.wenweipo.com/dams/wwpproduct/image/202108/26/6127486ae4b0ec4dc89c6da61.jpg",
+        "event_list": [
+            {
+                "event_type": "旅游类-拍照类",
+                "trigger": "拍照",
+                "trigger_start_index": 30,
+                "arguments": [
+                    {
+                        "argument_start_index": 0,
+                        "role": "时间",
+                        "argument": "8月25日"
+                    },
+                    {
+                        "argument_start_index": 6,
+                        "role": "拍照者",
+                        "argument": "参观者"
+                    },
+                    {
+                        "argument_start_index": 10,
+                        "role": "拍照地点",
+                        "argument": "「画游千里江山——故宫沉浸艺术展」"
+                    }
+                ],
+                "class": "旅游类"
+            },
+            {
+                "event_type": "旅游类-参观类",
+                "trigger": "参观",
+                "trigger_start_index": 6,
+                "arguments": [
+                    {
+                        "argument_start_index": 0,
+                        "role": "时间",
+                        "argument": "8月25日"
+                    },
+                    {
+                        "argument_start_index": 6,
+                        "role": "参观者",
+                        "argument": "参观者"
+                    },
+                    {
+                        "argument_start_index": 10,
+                        "role": "参观地点",
+                        "argument": "「画游千里江山——故宫沉浸艺术展」"
+                    },
+                    {
+                        "argument_start_index": "img",
+                        "role": "参观内容",
+                        "argument": "水族馆"
+                    }
+                ],
+                "class": "旅游类"
+            }
+        ]
+    },
+    {
+        "text": "11月3日，不少市民来到香港大浪湾泳滩游泳、冲浪或休闲。随着香港新冠肺炎疫情不断缓和，已关闭三个多月的香港康文署辖下泳滩从11月3日起重新开放。 香港康文署提醒泳滩使用人士必须遵守规例，不得进行多于4人的群组聚集，身处公众地方时须一直佩戴口罩等。 （中新社）",
+        "id": "5fa288ece4b07efb96ff05051.jpg",
+        "title": "疫情缓和 香港公共泳滩重新开放",
+        "description": "11月3日，不少市民来到香港大浪湾泳滩游泳、冲浪或休闲。",
+        "img_url": "https://dw-media.wenweipo.com/dams/wwpproduct/image/202011/04/5fa288ece4b07efb96ff05051.jpg",
+        "event_list": [
+            {
+                "event_type": "生活类-休闲类",
+                "trigger": "休闲",
+                "trigger_start_index": 25,
+                "arguments": [
+                    {
+                        "argument_start_index": 0,
+                        "role": "时间",
+                        "argument": "11月3日"
+                    },
+                    {
+                        "argument_start_index": 8,
+                        "role": "参与者",
+                        "argument": "市民"
+                    },
+                    {
+                        "argument_start_index": 12,
+                        "role": "休闲地点",
+                        "argument": "香港大浪湾泳滩"
+                    }
+                ],
+                "class": "生活类"
+            },
+            {
+                "event_type": "聚集类-聚集类",
+                "trigger": "聚集",
+                "trigger_start_index": 104,
+                "arguments": [
+                    {
+                        "argument_start_index": 0,
+                        "role": "时间",
+                        "argument": "11月3日"
+                    },
+                    {
+                        "argument_start_index": 8,
+                        "role": "参与者",
+                        "argument": "市民"
+                    },
+                    {
+                        "argument_start_index": 12,
+                        "role": "聚集地点",
+                        "argument": "香港大浪湾泳滩"
+                    },
+                    {
+                        "argument_start_index": 19,
+                        "role": "聚集目的",
+                        "argument": "游泳、冲浪或休闲"
+                    }
+                ],
+                "class": "聚集类"
+            }
+        ]
+    }
+]
