@@ -1,13 +1,13 @@
-# CMME
+# CMMEvent
 
-The dataset comprises 13 main categories, 34 subcategories, and 144 semantic roles. We collected 24,811 articles, from which 5,184 were selected based on:
+The dataset comprises 13 event types, 34 event sub-types, and 144 semantic roles. We collected 24,811 articles, from which 5,184 were selected based on:
 (1) Clear Event Mention: Articles must explicitly mention specific events.
 (2) Image-Text Relevance: Selection favored articles with closely aligned text and image content.
 (3) Rich Semantic Roles: Articles should present multifaceted event descriptions with multiple arguments
 
 ### Data Structure
 
-The CMME dataset is stored as a JSON file with the following data structure:
+The CMMEvent dataset is stored as a JSON file with the following data structure:
 
 ```
 {
@@ -84,7 +84,7 @@ interpretation of the different fields，
         "event_list": Annotation of the event information
         [
             {
-                "event_type": 34 subcategories of event categories,
+                "event_type": 34 event sub-types,
                 "trigger": trigger words to determine the type of event,
                 "trigger_start_index": trigger word position in the text,
                 "arguments": semantic role annotations
@@ -95,7 +95,7 @@ interpretation of the different fields，
                         "argument": specific arguments
                     }
                 ],
-                "class": 13 major event types
+                "class": 13 event types
             },
 ```
 
